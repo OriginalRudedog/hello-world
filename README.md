@@ -1,3 +1,4 @@
 # hello-world
-First repository on github
+First thing on github
 This is a change message  
+Alternate forth line
